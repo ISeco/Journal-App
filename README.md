@@ -17,3 +17,4 @@ Luego para levantar la aplicación sólo debes ejecutar el comando:
 
 ## Link App
 
+[Journal App](https://journal-app-opal.vercel.app)
